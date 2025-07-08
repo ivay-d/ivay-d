@@ -19,9 +19,7 @@ I mostly understand how codes work but if I'm not comfortable with the language 
   
 - 🆘 `BDFD-Tutorials` - The basics and hard parts of BDFD, awesome for everyone!  
   
-- 👾 `Unofficial BDFD api` - BDFD users are in struggle with the limits they have, so this is a helpful API for them   
-
-- 🚀 `loopy-ts` - The best API wrapper for `aoi.loopy5418.dev` made in `Typescript` 
+- 👾 `Unofficial BDFD api` - BDFD users are in struggle with the limits they have, so this is a helpful API for them
   
 If you have any ideas of improvement, contact me!  
   
