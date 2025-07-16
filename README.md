@@ -1,6 +1,6 @@
 # Hello, I'm Ivaylo! 👋  
   
-I'm a self taught full-stack developer in Türkiye. I mostly code in my free time with `Typescript`.   
+I'm a self taught full-stack developer in Türkiye. I mostly code in my free time with `Typescript`. I'm currently learning `Rust`
 I mostly understand how codes work but if I'm not comfortable with the language I'm writing on then things get slow.  
   
 ## Quick Info ✨  
