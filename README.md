@@ -5,7 +5,7 @@ I mostly understand how codes work but if I'm not comfortable with the language 
   
 ## Quick Info ✨  
 - My pronouns are He/Him  
-- My birthday is in 83 days
+- My birthday is in 82 days
 - I know `Python`, `JavaScript`, `Typescript`, `Golang`, `Rust` and most importantly `Brainf*ck` (god help me)!  
   
 ## How to reach me? 💬  
